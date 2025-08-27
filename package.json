@@ -1,0 +1,15 @@
+{
+  "name": "testapi-test1",
+  "version": "0.0.2",
+  "description": "only for test - do not use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "only"
+  ],
+  "author": "testapi1234",
+  "license": "MIT"
+}
