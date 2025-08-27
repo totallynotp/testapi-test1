@@ -3,6 +3,11 @@
   "version": "0.0.2",
   "description": "only for test - do not use",
   "main": "index.js",
+  "rep": "https://github.com/totallynotp/testapi-test1",
+    "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/totallynotp/testapi-test1.git"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
