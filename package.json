@@ -6,7 +6,7 @@
   "rep": "https://github.com/totallynotp/testapi-test1",
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/totallynotp/testapi-test1.git"
+    "url": "https://github.com/totallynotp/testapi-test1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
