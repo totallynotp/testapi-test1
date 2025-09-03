@@ -1,6 +1,6 @@
 {
   "name": "testapi-test1",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "description": "only for test - do not use",
   "main": "index.js",
   "rep": "https://github.com/totallynotp/testapi-test1",
