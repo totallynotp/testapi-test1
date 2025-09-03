@@ -1,4 +1,4 @@
-class TestAPI {
+export class TestAPI {
   
   constructor() {
       this.name = "TestAPI";
